@@ -1,2 +1,2 @@
 # NbaStatTracker
-A game where you can draft players to form a team to be able to go against each other.
+A program that people can use to check the stats of their favorite players on a daily basis.
