@@ -1,3 +1,4 @@
+- Create an idea of what I want to do DONE
 - Create title for website DONE
 - Create description of the website DONE
 - Create Read.me DONE
