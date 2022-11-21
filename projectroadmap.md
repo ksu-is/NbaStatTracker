@@ -1,11 +1,11 @@
-Create title for website DONE
-Create description of the website DONE
-Create Read.me DONE
-Create Road Map DONE
-Looking at other NBA Tracking repositories DONE
-Test and troubleshoot code that is completed so far DONE
-Rework code if neccesary
-Test code
-Test and troubleshoot GUI - Make sure it's running with the code
-Make changes if necessary.
-Review & finish code.
+- Create title for website DONE
+- Create description of the website DONE
+- Create Read.me DONE
+- Create Road Map DONE
+- Looking at other NBA Tracking repositories DONE
+- Test and troubleshoot code that is completed so far DONE
+- Rework code if neccesary
+- Test code
+- Test and troubleshoot GUI - Make sure it's running with the code
+- Make changes if necessary.
+- Review & finish code.
