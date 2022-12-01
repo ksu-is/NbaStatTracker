@@ -13,3 +13,7 @@ class NBAPointGuardStats(NBAStats):
 class NBAShootingGuardStats(NBAStats):
     def keys():
         return [ 'id', 'player_id', 'GP', 'MIN', 'PTS', 'FGM', 'FGA', 'FG%', '3PM', '3PA', '3P%','FTM', 'FTA', 'FT%', 'OREB', 'DREB', 'REB', 'AST', 'STL', 'BLK', 'TOV', 'EFF']
+class NBASmallForwardStats(NBAStats):
+    def keys():
+        return [ 'id', 'player_id', 'GP', 'MIN', 'PTS', 'FGM', 'FGA', 'FG%', '3PM', '3PA', '3P%','FTM', 'FTA', 'FT%', 'OREB', 'DREB', 'REB', 'AST', 'STL', 'BLK', 'TOV', 'EFF']
+        
