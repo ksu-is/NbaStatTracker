@@ -37,7 +37,6 @@ season_list = [
         '2020-21'
 ]
 
-
 class NBAPointGuardStats(NBAStats):
     def keys():
         return [ 'id', 'player_id', 'GP', 'MIN', 'PTS', 'FGM', 'FGA', 'FG%', '3PM', '3PA', '3P%','FTM', 'FTA', 'FT%', 'OREB', 'DREB', 'REB', 'AST', 'STL', 'BLK', 'TOV', 'EFF']      
@@ -121,3 +120,5 @@ for row in player_info:
             td3_rank=row[62],
             cfid=row[63],
 player.save()
+
+print ("Done inserting player general traditional season total data to the database!")
