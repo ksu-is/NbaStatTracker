@@ -1,5 +1,9 @@
 import
 
+def get_NBA_stats():
+    year=input("Which NBA season are you interested in?: ")
+player=input("For which player do you want to get stats?: ")
+
 BASE_URL = 'https://www.espn.com/nba/'
 PLAYER_LIST_URL = 'http://www.espn.com/nba/players'
 PLAYERS_ID_URL = 'https://www.espn.com/nba/player/_/id/[ID]/[player]'
