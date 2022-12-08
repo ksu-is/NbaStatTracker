@@ -54,7 +54,7 @@ class NBACenter(NBAStats):
         return [ 'id', 'player_id', 'GP', 'MIN', 'PTS', 'FGM', 'FGA', 'FG%', '3PM', '3PA', '3P%','FTM', 'FTA', 'FT%', 'OREB', 'DREB', 'REB', 'AST', 'STL', 'BLK', 'TOV', 'EFF']
 
 for row in player_info:
-            season_id=season_id, # this is key, need this to join and sort by seasons
+            season_id=season_id,
             player_id=row[0],
             player_name=row[1],
             team_id=row[2],
